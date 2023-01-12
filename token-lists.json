@@ -1,0 +1,20 @@
+{
+  "https://tokens.d3n.io/zinuswap-default.json": {
+    "name": "ZinuSwap Default",
+    "homepage": "https://app.d3n.io"
+  },
+  "https://tokens.d3n.io/zinuswap-extended.json": {
+    "name": "ZinuSwap Extended",
+    "homepage": "https://app.d3n.io"
+    
+  },
+  "https://tokens.d3n.io/zinuswap-top-100.json": {
+    "name": "ZinuSwap Top 100",
+    "homepage": "https://app.d3n.io"
+    
+  },
+  "https://tokens.coingecko.com/binance-smart-chain/all.json": {
+    "name": "CoinGecko",
+    "homepage": "https://www.coingecko.com"
+  }
+}

@@ -1,1 +1,1 @@
-# ZinuFinance-Tokens
+# ZinuSwap-Tokens
